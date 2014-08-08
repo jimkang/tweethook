@@ -1,0 +1,166 @@
+{
+  "ref": "refs/heads/master",
+  "after": "e15663abc6ee6c6d57f4d7929b6d1a7b45775a9f",
+  "before": "2c3ba28edd89cfe211d20ed2344814fee319217d",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "compare": "https://github.com/jimkang/godtributes/compare/2c3ba28edd89...e15663abc6ee",
+  "commits": [
+    {
+      "id": "e15663abc6ee6c6d57f4d7929b6d1a7b45775a9f",
+      "distinct": true,
+      "message": "Updated followback to log in logger instead of console.",
+      "timestamp": "2014-08-07T23:29:11-04:00",
+      "url": "https://github.com/jimkang/godtributes/commit/e15663abc6ee6c6d57f4d7929b6d1a7b45775a9f",
+      "author": {
+        "name": "Jim Kang",
+        "email": "jimkang@gmail.com",
+        "username": "jimkang"
+      },
+      "committer": {
+        "name": "Jim Kang",
+        "email": "jimkang@gmail.com",
+        "username": "jimkang"
+      },
+      "added": [
+
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+        "followback.js"
+      ]
+    },
+    {
+      "id": "longcommit_id",
+      "distinct": true,
+      "message": "Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. It’s the answer to the question: “If I sit down in front of a blank HTML page, and want to start being productive immediately, what do I need?” … and the tie to go along with jQuery's tux and Backbone's suspenders.",
+      "timestamp": "2014-08-06T23:29:11-04:00",
+      "url": "https://github.com/jimkang/godtributes/commit/e15663abc6ee6c6d57f4d7929b6d1a7b45775a9f",
+      "author": {
+        "name": "Jim Kang",
+        "email": "jimkang@gmail.com",
+        "username": "jimkang"
+      },
+      "committer": {
+        "name": "Jim Kang",
+        "email": "jimkang@gmail.com",
+        "username": "jimkang"
+      },
+      "added": [
+
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+        "followback.js"
+      ]
+    }    
+  ],
+  "head_commit": {
+    "id": "e15663abc6ee6c6d57f4d7929b6d1a7b45775a9f",
+    "distinct": true,
+    "message": "Updated followback to log in logger instead of console.",
+    "timestamp": "2014-08-07T23:29:11-04:00",
+    "url": "https://github.com/jimkang/godtributes/commit/e15663abc6ee6c6d57f4d7929b6d1a7b45775a9f",
+    "author": {
+      "name": "Jim Kang",
+      "email": "jimkang@gmail.com",
+      "username": "jimkang"
+    },
+    "committer": {
+      "name": "Jim Kang",
+      "email": "jimkang@gmail.com",
+      "username": "jimkang"
+    },
+    "added": [
+
+    ],
+    "removed": [
+
+    ],
+    "modified": [
+      "followback.js"
+    ]
+  },
+  "repository": {
+    "id": 20792587,
+    "name": "godtributes",
+    "full_name": "jimkang/godtributes",
+    "owner": {
+      "name": "jimkang",
+      "email": "jimkang@gmail.com"
+    },
+    "private": false,
+    "html_url": "https://github.com/jimkang/godtributes",
+    "description": "Bot that makes demands for gods appropriately.",
+    "fork": false,
+    "url": "https://github.com/jimkang/godtributes",
+    "forks_url": "https://api.github.com/repos/jimkang/godtributes/forks",
+    "keys_url": "https://api.github.com/repos/jimkang/godtributes/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/jimkang/godtributes/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/jimkang/godtributes/teams",
+    "hooks_url": "https://api.github.com/repos/jimkang/godtributes/hooks",
+    "issue_events_url": "https://api.github.com/repos/jimkang/godtributes/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/jimkang/godtributes/events",
+    "assignees_url": "https://api.github.com/repos/jimkang/godtributes/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/jimkang/godtributes/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/jimkang/godtributes/tags",
+    "blobs_url": "https://api.github.com/repos/jimkang/godtributes/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/jimkang/godtributes/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/jimkang/godtributes/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/jimkang/godtributes/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/jimkang/godtributes/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/jimkang/godtributes/languages",
+    "stargazers_url": "https://api.github.com/repos/jimkang/godtributes/stargazers",
+    "contributors_url": "https://api.github.com/repos/jimkang/godtributes/contributors",
+    "subscribers_url": "https://api.github.com/repos/jimkang/godtributes/subscribers",
+    "subscription_url": "https://api.github.com/repos/jimkang/godtributes/subscription",
+    "commits_url": "https://api.github.com/repos/jimkang/godtributes/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/jimkang/godtributes/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/jimkang/godtributes/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/jimkang/godtributes/issues/comments/{number}",
+    "contents_url": "https://api.github.com/repos/jimkang/godtributes/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/jimkang/godtributes/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/jimkang/godtributes/merges",
+    "archive_url": "https://api.github.com/repos/jimkang/godtributes/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/jimkang/godtributes/downloads",
+    "issues_url": "https://api.github.com/repos/jimkang/godtributes/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/jimkang/godtributes/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/jimkang/godtributes/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/jimkang/godtributes/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/jimkang/godtributes/labels{/name}",
+    "releases_url": "https://api.github.com/repos/jimkang/godtributes/releases{/id}",
+    "created_at": 1402635464,
+    "updated_at": "2014-07-07T15:44:24Z",
+    "pushed_at": 1407468568,
+    "git_url": "git://github.com/jimkang/godtributes.git",
+    "ssh_url": "git@github.com:jimkang/godtributes.git",
+    "clone_url": "https://github.com/jimkang/godtributes.git",
+    "svn_url": "https://github.com/jimkang/godtributes",
+    "homepage": null,
+    "size": 563,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "forks_count": 0,
+    "mirror_url": null,
+    "open_issues_count": 2,
+    "forks": 0,
+    "open_issues": 2,
+    "watchers": 1,
+    "default_branch": "master",
+    "stargazers": 1,
+    "master_branch": "master"
+  },
+  "pusher": {
+    "name": "jimkang",
+    "email": "jimkang@gmail.com"
+  }
+}
