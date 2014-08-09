@@ -53,6 +53,8 @@ function respondToRequestWithBody(req, body, res, headers) {
   res.end();
 }
 
-http.createServer(takeRequest).listen(9001, '127.0.0.1');
 
-console.log('Server running at http://127.0.0.1:9001/');
+http.createServer(takeRequest).listen(3002);
+
+console.log('Server running at 3002.');
+
